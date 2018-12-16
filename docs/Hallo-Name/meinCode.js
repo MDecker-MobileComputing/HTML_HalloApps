@@ -29,6 +29,7 @@ function sageHallo() {
  * Event-Handler für den Lösch-Button
  */
 function loeschen() {
+
     $("#inputName").val("");
     $("#ergebnis").text("");
 }

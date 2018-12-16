@@ -9,5 +9,6 @@
  * Event-Handler-Funktion für den Button.
  */ 
 function meinButtonEventHandler() {
+
     alert("Hallo DHBW");
 }
